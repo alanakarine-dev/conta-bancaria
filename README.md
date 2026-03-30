@@ -38,7 +38,7 @@ Aplicação desenvolvida em Java que simula um sistema bancário simples, utiliz
 1. Clone este repositório:
 
 ```
-git clone 
+git clone  https://github.com/alanakarine-dev/conta-bancaria.git
 ```
 
 2. Abra o projeto em sua IDE (IntelliJ, Eclipse, VS Code)
